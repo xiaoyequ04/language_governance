@@ -18,7 +18,7 @@ indent: true
 geometry: margin=1in
 linestretch: 1.5 # double spacing using linestretch 1.5
 colorlinks: true
-bibliography: [language_governance.bib, p_language_governance.bib]
+bibliography: [p_language_governance.bib]
 biblio-style: apsr
 citation_package: natbib
 link-citations: true
